@@ -54,3 +54,5 @@ DefenseVisiblity/
 - For best results, use high-resolution DEMs.
 - The app caches results for faster repeated queries.
 - Morphological smoothing in viewshed script requires `scipy`.
+
+  instead of pip use uv also 
