@@ -2,21 +2,21 @@
   "visible": false,
   "observer": {
     "lon": 71.985,
-    "lat": 34.189,
-    "ground": 309.0,
-    "height": 18.0,
-    "elev": 327.0
+    "lat": 34.9,
+    "ground": 890.0,
+    "height": 40.0,
+    "elev": 930.0
   },
   "target": {
-    "lon": 71.28,
+    "lon": 71.983,
     "lat": 34.182,
-    "ground": 836.0,
-    "height": 6.0,
-    "elev": 842.0
+    "ground": 307.0,
+    "height": 32.0,
+    "elev": 339.0
   },
   "blocking_point": {
-    "lon": 71.32251256281407,
-    "lat": 34.182422110552764,
-    "elev": 864.0
+    "lon": 71.98496984924623,
+    "lat": 34.88917587939699,
+    "elev": 968.0
   }
 }
